@@ -15,6 +15,8 @@ public class arraylistdemo
      System.out.println("Test Output");
      System.out.println("Test Output2");
      System.out.println("Test Output3");
+     System.out.println("Test Output4");
+     System.out.println("Test Output5");
      Iterator it=ar.iterator();
      int i=0;
      while((it.hasNext())&&(i<6))
