@@ -11,6 +11,9 @@ public class arraylistdemo
      ar.add(new Float(13));
      ar.add(new Float(14));
      System.out.println("the elements in the arraylist ar are "+ar);
+     System.out.println("Manoj Singh is the coder");
+     System.out.println("Test Output");
+     System.out.println("Test Output2");
      Iterator it=ar.iterator();
      int i=0;
      while((it.hasNext())&&(i<6))
