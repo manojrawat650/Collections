@@ -14,6 +14,7 @@ public class arraylistdemo
      System.out.println("Manoj Singh is the coder");
      System.out.println("Test Output");
      System.out.println("Test Output2");
+     System.out.println("Test Output3");
      Iterator it=ar.iterator();
      int i=0;
      while((it.hasNext())&&(i<6))
